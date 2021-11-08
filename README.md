@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajkumar ANGARE (@rajangare)
-- 👀 I’m interested in Mentoring, Design and Java fullstack application development, 
+- 👀 I’m interested in Mentoring, App Designing, Java fullstack application development, Cloud and Latest tech stack
 - 🌱 I’m currently learning Angular and ReactJs
 - 💞️ I’m looking to collaborate on  - None
 - 📫 You can text me on rajangare@gmail.com 
